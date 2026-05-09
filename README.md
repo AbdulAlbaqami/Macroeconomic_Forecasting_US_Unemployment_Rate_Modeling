@@ -8,6 +8,7 @@ This project forecasts the monthly U.S. unemployment rate by evaluating the pred
 
 The repository is organized into a clean, modular structure for reproducibility:
 
+```text
 unemployment-forecasting/
 ├── Data/                           # Raw CSV datasets from FRED
 ├── Notebooks/                      # Core analysis and modeling
@@ -15,6 +16,7 @@ unemployment-forecasting/
 │   └── TS_Modeling_Final.ipynb     # Model selection and evaluation
 ├── .gitignore                      # Prevents pushing .venv and temporary files
 └── README.md                       # Project documentation
+```
 
 ## Methodology
 The modeling strategy followed a systematic progression of increasing complexity:
@@ -49,7 +51,10 @@ The analysis found that adding a COVID-period dummy variable actually decreased 
 
 ## Installation & Usage 
 1- Clone the repository
+
 2- Create and activate a virtual environment
+
 3- Install dependencies
+
 4- Run the Notebooks/TS_Modeling_Final.ipynb file to reproduce the analysis
 
