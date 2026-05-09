@@ -1,0 +1,18 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Virtual Environment
+.venv/
+.DS_Store
+.venv/
+env/
+venv/
+bin/
+lib/
+share/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
