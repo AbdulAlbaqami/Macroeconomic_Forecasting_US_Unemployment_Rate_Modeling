@@ -56,5 +56,5 @@ The analysis found that adding a COVID-period dummy variable actually decreased 
 
 3- Install dependencies
 
-4- Run the Notebooks/TS_Modeling_Final.ipynb file to reproduce the analysis
+4- Run TS_Modeling_Final.ipynb file to reproduce the analysis
 
